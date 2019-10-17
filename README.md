@@ -3,13 +3,13 @@ Golang binding for FFmpeg
 
 A comprehensive binding to the ffmpeg video/audio manipulation library.
 
-[![GoDoc](https://godoc.org/github.com/giorgisio/goav?status.svg)](https://godoc.org/github.com/giorgisio/goav)
+[![GoDoc](https://godoc.org/github.com/mgr9525/goav?status.svg)](https://godoc.org/github.com/mgr9525/goav)
 
 ## Usage
 
 `````go
 
-import "github.com/giorgisio/goav/avformat"
+import "github.com/mgr9525/goav/avformat"
 
 func main() {
 
@@ -69,7 +69,7 @@ export LD_LIBRARY_PATH=$HOME/ffmpeg/lib
 ``` 
 
 ``` 
-go get github.com/giorgisio/goav
+go get github.com/mgr9525/goav
 
 ``` 
 
