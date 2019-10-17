@@ -77,6 +77,13 @@ go get github.com/mgr9525/goav
 
 Coding examples are available in the examples/ directory.
 
+
+# need env
+```
+CGO_CFLAGS=-I{ffmpegPath}/include;
+CGO_LDFLAGS=-L{ffmpegPath}/bin -lavcodec-58 -lavdevice-58 -lavfilter-7 -lavformat-58 -lavutil-56 -lpostproc-55 -lswresample-3 -lswscale-5
+```
+
 ## Note
 - Function names in Go are consistent with that of the libraries to help with easy search
 - [cgo: Extending Go with C](http://blog.giorgis.io/cgo-examples)
