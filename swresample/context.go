@@ -4,7 +4,6 @@
 package swresample
 
 /*
-	#cgo pkg-config: libswresample
 	#include <libswresample/swresample.h>
 */
 import "C"

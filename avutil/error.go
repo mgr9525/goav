@@ -7,7 +7,6 @@
 // Some generic features and utilities provided by the libavutil library
 package avutil
 
-//#cgo pkg-config: libavutil
 //#include <libavutil/error.h>
 //#include <stdlib.h>
 //static const char *error2string(int code) { return av_err2str(code); }

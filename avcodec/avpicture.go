@@ -2,7 +2,6 @@
 // Giorgis (habtom@giorgis.io)
 package avcodec
 
-//#cgo pkg-config: libavcodec
 //#include <libavcodec/avcodec.h>
 import "C"
 import (

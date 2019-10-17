@@ -7,7 +7,6 @@
 // Some generic features and utilities provided by the libavutil library
 package avutil
 
-//#cgo pkg-config: libavutil
 //#include <libavutil/avutil.h>
 //#include <libavutil/dict.h>
 //#include <stdlib.h>

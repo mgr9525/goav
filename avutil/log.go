@@ -4,7 +4,6 @@
 package avutil
 
 /*
-	#cgo pkg-config: libavutil
 	#include <libavutil/log.h>
 	#include <stdlib.h>
 */

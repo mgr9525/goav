@@ -2,7 +2,6 @@
 
 package avformat
 
-//#cgo pkg-config: libavutil
 //#include <libavutil/avutil.h>
 import "C"
 

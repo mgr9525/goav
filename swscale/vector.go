@@ -3,7 +3,6 @@
 
 package swscale
 
-//#cgo pkg-config: libswscale libavutil
 //#include <libswscale/swscale.h>
 import "C"
 import (

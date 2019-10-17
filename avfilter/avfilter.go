@@ -7,7 +7,6 @@
 package avfilter
 
 /*
-	#cgo pkg-config: libavfilter
 	#include <libavfilter/avfilter.h>
 */
 import "C"
